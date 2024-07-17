@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"lambda","Source":"../modules/lambda","Dir":"../modules/lambda"},{"Key":"logs","Source":"../modules/logs","Dir":"../modules/logs"},{"Key":"dynamodb_table","Source":"../modules/dynamodb","Dir":"../modules/dynamodb"},{"Key":"","Source":"","Dir":"."},{"Key":"dynamodb_custom_table","Source":"../modules/dynamodb","Dir":"../modules/dynamodb"}]}
